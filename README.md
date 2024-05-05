@@ -1,5 +1,3 @@
-# Hierarchical-Story-Generation-Using-NeuralNetworks
-=======
 # Hierarchical Story Generation Using Neural Networks
 Generating stories consisting of multiple paragprahs using a LSTM trained on a corpus consisting of several short stories.
 
