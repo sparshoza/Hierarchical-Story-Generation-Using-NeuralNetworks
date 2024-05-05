@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hierarchical-Story-Generation-Using-NeuralNetworks
 =======
 # Hierarchical Story Generation Using Neural Networks
